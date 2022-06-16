@@ -1,3 +1,4 @@
+service tor start
 #!/bin/bash
 # Coded by @thelinuxchoice (Instagram)
 checkroot() {
